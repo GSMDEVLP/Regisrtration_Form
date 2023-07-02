@@ -1,0 +1,11 @@
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\bin\Debug\Лаб1.exe.config
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\bin\Debug\Лаб1.exe
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\bin\Debug\Лаб1.pdb
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\obj\Debug\Лаб1.csproj.AssemblyReference.cache
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\obj\Debug\Лаб1.Properties.Resources.resources
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\obj\Debug\Лаб1.csproj.GenerateResource.cache
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\obj\Debug\Лаб1.csproj.CoreCompileInputs.cache
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\obj\Debug\Лаб1.exe
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\obj\Debug\Лаб1.pdb
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\obj\Debug\Лаб1.Registration.resources
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Лаб1\obj\Debug\Лаб1.Authentication.resources

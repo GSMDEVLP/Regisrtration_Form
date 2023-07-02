@@ -1,0 +1,7 @@
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Server\bin\Debug\Server.exe.config
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Server\bin\Debug\Server.exe
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Server\bin\Debug\Server.pdb
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Server\obj\Debug\Server.exe
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб1\Server\obj\Debug\Server.pdb
